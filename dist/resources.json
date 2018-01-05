@@ -1,0 +1,32 @@
+{
+    "resources": [
+        {
+            "name": "visual_ext_index.html"
+        },
+        {
+            "name": "WebContent/Component.js"
+        },
+        {
+            "name": "WebContent/generalInformation.controller.js"
+        },
+        {
+            "name": "WebContent/index.html"
+        },
+        {
+            "name": "WebContent/zedit/generalInformation.view.js"
+        },
+        {
+            "name": "WebContent/zreport/generate.controller.js"
+        },
+        {
+            "name": "WebContent/zreport/generate.view.js"
+        },
+        {
+            "name": "WebContent/ztask/findingToBeAssignedToProcedure.controller.js"
+        },
+        {
+            "name": "WebContent/Component-preload.js",
+            "merged": true
+        }
+    ]
+}
